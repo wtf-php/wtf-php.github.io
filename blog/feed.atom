@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>WTF-PHP</title>
+    <link href="https://wtf-php.github.io" />
+    <link type="application/atom+xml" rel="self" href="https://wtf-php.github.io/blog/feed.atom" />
+    <updated>2020-04-10T20:09:00+00:00</updated>
+    <id>https://wtf-php.github.io/blog/feed.atom</id>
+    <author>
+        <name>WTF-PHP</name>
+    </author>
+                <entry>
+    <id>https://wtf-php.github.io/blog/see-you-soon</id>
+    <link type="text/html" rel="alternate" href="https://wtf-php.github.io/blog/see-you-soon" />
+    <title>See you soon</title>
+    <published>2020-04-04T00:00:00+00:00</published>
+    <updated>2020-04-04T00:00:00+00:00</updated>
+    <author>
+        <name>WTF-PHP</name>
+    </author>
+    <summary type="html">&lt;p&gt;Stay tuned for a bunch of awesome coding video streams and php packages....</summary>
+    <content type="html"><![CDATA[
+        <p>Stay tuned for a bunch of awesome coding video streams and php packages.<!-- more --></p>
+    ]]></content>
+</entry>
+    </feed>
